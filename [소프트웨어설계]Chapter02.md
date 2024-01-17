@@ -10,8 +10,9 @@
     3. 시스템 하드웨어 현황 파악 → **네트워크 구성** 파악
 - 시스템 아키텍처: 시스템 내의 상위, 하위 시스템들이 어떠한 관계로 상호작용하는지 각각의 동작원리와 구성을 표현한 것
     - 설계과정: 설계목표 설정 → 시스템 타입결정 → 스타일 적용 및 커스터마이즈 → 서브시스템의 기능, 인터페이스 동작 작성 → 아키텍처 설계 검토
-    
-    ![Untitled](Chapter02/Untitled.png)
+
+  ![Untitled](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/63b0139b-ea09-4c9b-bf56-69a86cd2bc05)
+
     
 
 ## 시스템 및 인터페이스 현황 파악
@@ -109,7 +110,7 @@
 
 - **도**출(Elicitation)→ **분**석(Analysis) → **명**세(Specification) → **확**인(검증)(Validation)
 
-![Untitled](Chapter02/Untitled%201.png)
+![Untitled 1](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/375e7bc4-650f-4a66-a41b-f5960afde8db)
 
 ## 요구사항 도출 Requirment Elicitation
 
@@ -311,7 +312,7 @@
 - 객체간의 관계를 추상화한 모델을 논리적 구조로 표현
 - 클래스 이름, 속성 및 속성 타입, 오퍼레이션(연산), 오퍼레이션 리턴 타입, 오퍼레이션 매개 변수, 접근 제어
 
-![Untitled](Chapter02/Untitled%202.png)
+![Untitled 2](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/f4791f9b-3e2e-4b04-899d-6a1e34e34cd3)
 
 ## 행위 다이어그램 Behavioral Diagram
 
@@ -343,7 +344,7 @@
 - 구성: 액터(Actor)와 유스케이스(Use Case)
 - 결과: 개발 대상 시스템이 제공해야 하는 서비스 목록
 
-![Untitled](Chapter02/Untitled%203.png)
+![Untitled 3](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/bf8401f7-0c8b-417d-b53a-6756d1f3353c)
 
 - Use Case Diagram 요소⭐
     
@@ -364,25 +365,25 @@
 
     - 단방향 연관 관계
         - 한 쪽만 상대방을 앎
-    
-    ![Untitled](Chapter02/Untitled%204.png)
+
+        ![Untitled 4](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/964214aa-41f9-47ee-a679-c129429e9eb5)
     
     - 양방향 연관 관계
         - 양쪽 객체들이 서로의 존재를 인
-    
-    ![Untitled](Chapter02/Untitled%205.png)
-    
-    ![Untitled](Chapter02/Untitled%206.png)
+
+        ![Untitled 5](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/64dda118-3986-4e38-aa0f-850d2f8d6ac0)
+
+    ![Untitled 6](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/522553d1-0a05-4716-9dac-1dd0eb28f564)
     
 - UML 의존 관계 Dependency Relation
-    - 연간관계와 같지만, 매우 짧은 시간만 유지됨
-    
-    ![Untitled](Chapter02/Untitled%207.png)
+  - 연간관계와 같지만, 매우 짧은 시간만 유지됨
+
+  ![Untitled 7](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/b4a1203b-dbdc-4af4-86bf-230791c5dcdf)
     
 - UML 일반화 관계 Generalization Relatoin
     - 상속관계 표현
-    
-    ![Untitled](Chapter02/Untitled%208.png)
+
+  ![Untitled 8](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/11963b83-e3fb-4032-97e3-a30d3aeba64b)
     
 - UML 집합 관계 Aggregation Relation
     - 전체와 부분 간의 관계
@@ -390,7 +391,7 @@
     - 부분 객체는 전체 객체에 의해 생성, 소멸하지 않고 다른 객체와 공유 가능
     - or 관계에는 점선 사용
     
-    ![학교에는 학생과 교사가 있다](Chapter02/Untitled%209.png)
+    ![학교에는 학생과 교사가 있다](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/83e85441-7c82-49e6-8c33-515a29181e2c)
     
     학교에는 학생과 교사가 있다
     
@@ -398,11 +399,11 @@
     - 부분 객체가 전체 객체에 속하는 강한 집합 관계
     - 부분 객체는 다른 객체와 공유 불가
     
-    ![책상은 다리와 상판으로 구성](Chapter02/Untitled%2010.png)
+    ![책상은 다리와 상판으로 구성](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/8ffe9020-a45a-401d-abd9-1c526e1ea49a)
     
     책상은 다리와 상판으로 구성
     
 - UML 실체화 관계 Realization Relation
     - 인터페이스와 실제 구현된 일반 클래스 간의 관계로 존재하는 행동에 대한 구현을 표현
-    
-    ![Untitled](Chapter02/Untitled%2011.png)
+
+  ![Untitled 11](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/0276c83a-b617-4838-9bcf-ee0c05f3f9fb)

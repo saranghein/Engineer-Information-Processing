@@ -156,7 +156,7 @@
     - 폭포수 모형 + 시스템 검증 + 테스트 작업
     - 신뢰도 높은 시스템 개발 생명주기 초반부터 테스트 작업
 
-![Untitled](Chapter01/Untitled.png)
+![Untitled](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/ae9de8db-d4d4-4a0b-8504-900e4db23103)
 
 - 장점:
     - 개발 초기부터 테스트를 수행해 결함을 초기에 발견해 수정 가능
@@ -209,7 +209,7 @@
     - Acceptance Test : 릴리즈 단위 개발이 구현 된 후 고객이 직접 테스트, 오류가 발견되면 다음 Iteration에 추가하고 완료 후에는 다음 Iteration을 진행
     - Small Release : 릴리즈 단위를 기능별로 세분화하면 고객의 반응을 기능 별로 확인 가능, 최종 완제품일 경우 고객에 의한 최종 테스트 진행 후 고객에게 제공
 
-![Untitled](Chapter01/Untitled%201.png)
+![Untitled 1](https://github.com/saranghein/Engineer-Information-Processing/assets/98319061/e94e0828-05d5-4f80-ba71-f5dbf3d849d9)
 
 - XP의 12가지 실천 사항 Practice
     1. Pair Programming : 두 사람이 짝이 되어 한 사람은 코딩, 다른 사람은 검사를 수행
